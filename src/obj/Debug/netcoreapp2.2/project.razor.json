@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\vvenkata\\Documents\\Visual Studio 2019\\elastic-kibana\\src\\elastic-kibana.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
